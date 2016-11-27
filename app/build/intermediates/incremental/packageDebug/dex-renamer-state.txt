@@ -1,0 +1,7 @@
+#Wed Nov 16 21:25:00 CST 2016
+base.0=C\:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7ca2da5e4b7b3beab5eb2370da4658c486e50396
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f358109ad179d13f5d5013b5f0f950a8e9155d2d\\classes.dex
+base.1=C\:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f358109ad179d13f5d5013b5f0f950a8e9155d2d
+file.0=C\:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7ca2da5e4b7b3beab5eb2370da4658c486e50396\\classes.dex

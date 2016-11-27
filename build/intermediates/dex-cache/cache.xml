@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\fish1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c56a46ff6ee283c867b44417bab380ef2ca9594">
+        <dex dex="C:\Users\Lenovo\Desktop\fish1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ca2da5e4b7b3beab5eb2370da4658c486e50396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\fish1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7b68e17d6873b28f17bd5d00caded1177c3b65e4">
+        <dex dex="C:\Users\Lenovo\Desktop\fish1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f358109ad179d13f5d5013b5f0f950a8e9155d2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Lenovo\Desktop\fish1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_590b9c1c297e30c47f97ef3446c05147e4e7786e\classes.dex" />
+    </item>
+
+</items>

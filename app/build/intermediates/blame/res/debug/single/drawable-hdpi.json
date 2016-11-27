@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back2.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\middleenemy.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\middleenemy.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\myfish2.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\myfish2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smallenemy.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\smallenemy.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bigenemy.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\fish1\\app\\src\\main\\res\\drawable-hdpi\\bigenemy.png"
+    }
+]
